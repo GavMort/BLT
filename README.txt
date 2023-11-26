@@ -1,0 +1,1 @@
+Welcome to the website for the Barry Lutz Telescope at Northern Arizona University

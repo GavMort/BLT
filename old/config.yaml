@@ -1,6 +1,0 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-
-title: [Barry Lutz Telescope]
-description: [This is the website for the Barry Lutz Telescope at Northern Arizona University in Flagstaff, AZ]
