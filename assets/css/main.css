@@ -2923,7 +2923,7 @@ input, select, textarea {
 
 			.statistics li strong, .statistics li b {
 				display: block;
-				font-size: 25vw;
+				font-size: 2em;
 				line-height: 1.1;
 				color: inherit !important;
 				font-weight: 300;
@@ -2973,7 +2973,7 @@ input, select, textarea {
 
 				.statistics li:last-child {
 					border-top-right-radius: 0;
-					border-bottom-left-radius: 10px;
+					border-bottom-left-radius: 15px;
 				}
 
 				.statistics li .icon:before {
