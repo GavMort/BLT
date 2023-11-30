@@ -2937,7 +2937,7 @@ input, select, textarea {
 
 			.statistics li:last-child {
 				border-top-right-radius: 8px;
-				border-bottom-right-radius: 8px;
+				border-bottom-right-radius: 10px;
 			}
 
 			.statistics li .icon {
@@ -2962,7 +2962,7 @@ input, select, textarea {
 			.statistics {
 				display: block;
 				width: 20em;
-				max-width: 50%;
+				max-width: 100%;
 				margin: 0 auto 2em auto;
 			}
 
