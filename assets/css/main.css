@@ -2401,7 +2401,8 @@ input, select, textarea {
 		}
 
 			.image.fit img {
-				width: 100%;
+				object-fit: contain;
+				max-width:100%;
 			}
 
 		.image.main {
@@ -2411,7 +2412,8 @@ input, select, textarea {
 		}
 
 			.image.main img {
-				width: 100%;
+				object-fit: contain;
+				max-width:100%;
 			}
 
 /* List */
