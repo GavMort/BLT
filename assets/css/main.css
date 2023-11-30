@@ -2399,7 +2399,8 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 100%;
+			object-fit: contain;
+			max-width:100%;
 		}
 
 			.image.fit img {
@@ -2410,7 +2411,8 @@ input, select, textarea {
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
-			width: 100%;
+			object-fit: contain;
+			max-width:100%;
 		}
 
 			.image.main img {
