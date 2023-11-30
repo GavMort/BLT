@@ -2962,7 +2962,7 @@ input, select, textarea {
 			.statistics {
 				display: block;
 				width: 20em;
-				max-width: 100%;
+				max-width: 50%;
 				margin: 0 auto 2em auto;
 			}
 
