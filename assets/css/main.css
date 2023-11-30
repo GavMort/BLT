@@ -2375,11 +2375,13 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			object-fit: contain;
+			max-width:100%;
 		}
 
 			.image.left img, .image.right img {
-				width: 100%;
+				object-fit: contain;
+				max-width:100%;
 			}
 
 		.image.left {
