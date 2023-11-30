@@ -22,7 +22,8 @@
 			max-width: 40%;
 
 			img {
-				width: 100%;
+				object-fit: contain;
+				max-width:100%;
 			}
 		}
 
@@ -41,20 +42,24 @@
 		&.fit {
 			display: block;
 			margin: 0 0 _size(element-margin) 0;
-			width: 100%;
+			object-fit: contain;
+			max-width:100%;
 
 			img {
-				width: 100%;
+				object-fit: contain;
+				max-width:100%;
 			}
 		}
 
 		&.main {
 			display: block;
 			margin: 0 0 (_size(element-margin) * 1.5) 0;
-			width: 100%;
+			object-fit: contain;
+			max-width:100%;
 
 			img {
-				width: 100%;
+				object-fit: contain;
+				max-width:100%;
 			}
 		}
 	}
